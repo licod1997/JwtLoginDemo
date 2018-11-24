@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JwtLogin</string>
+    <string name="edt_username">Username</string>
+    <string name="edt_password">Password</string>
+    <string name="btn_lgoin">Login</string>
+</resources>
